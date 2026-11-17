@@ -1,0 +1,657 @@
+[
+ {
+  "day": 1,
+  "kind": "image",
+  "src": "dumprin_fluff_01_curl_ruler.png",
+  "out": "post_d01_0715.jpg",
+  "kicker": "Curl Report",
+  "headline": "Fibonacci Day. We checked. The curl is a spiral."
+ },
+ {
+  "day": 2,
+  "kind": "image",
+  "src": "dumprin_fluff_02_patient.png",
+  "out": "post_d02_0715.jpg",
+  "kicker": "Never Said",
+  "headline": "Things Dumprin has never said: “We just went over this.”"
+ },
+ {
+  "day": 3,
+  "kind": "image",
+  "src": "dumprin_fluff_03_side_eye.png",
+  "out": "post_d03_0715.jpg",
+  "kicker": "Not My Department",
+  "headline": "“Dumprin, who’s winning the game tonight?”\n“Not my department. Ask me the score difference.”"
+ },
+ {
+  "day": 4,
+  "kind": "image",
+  "src": "dumprin_fluff_04_thankful.png",
+  "out": "post_d04_0715.jpg",
+  "kicker": "Dumprin Says",
+  "headline": "Thankful for wrong answers. They show me where to start."
+ },
+ {
+  "day": 4,
+  "kind": "reel",
+  "src": "dumprin_04_pie_still.png",
+  "out": "reel_d04_1215.mp4",
+  "headline": "Turn the pie into a fractions lesson."
+ },
+ {
+  "day": 5,
+  "kind": "image",
+  "src": "dumprin_fluff_05_friday.png",
+  "out": "post_d05_0715.jpg",
+  "kicker": "Curl Report",
+  "headline": "Friday. The curl has weekend plans. They’re fractions."
+ },
+ {
+  "day": 5,
+  "kind": "reel",
+  "src": "dumprin_05_sale_math_still.png",
+  "out": "reel_d05_1215.mp4",
+  "headline": "Work out what 30% off really means."
+ },
+ {
+  "day": 6,
+  "kind": "image",
+  "src": "dumprin_fluff_06_pancakes.png",
+  "out": "post_d06_0715.jpg",
+  "kicker": "Dumprin Says",
+  "headline": "Saturday office hours: closed for pancakes. Pancakes are circles. Circles are math. Fine. We’re open."
+ },
+ {
+  "day": 6,
+  "kind": "reel",
+  "src": "dumprin_d06_1215_still.png",
+  "out": "reel_d06_1215.mp4",
+  "headline": "Give the fridge something to hold."
+ },
+ {
+  "day": 7,
+  "kind": "image",
+  "src": "dumprin_fluff_07_sunday.png",
+  "out": "post_d07_0715.jpg",
+  "kicker": "7:42 PM",
+  "headline": "Sunday, 7:42 PM. Somebody just remembered the project is due tomorrow."
+ },
+ {
+  "day": 7,
+  "kind": "reel",
+  "src": "dumprin_07_backpack_still.png",
+  "out": "reel_d07_1215.mp4",
+  "headline": "Get Monday’s reading ready on Sunday."
+ },
+ {
+  "day": 8,
+  "kind": "image",
+  "src": "dumprin_d08_0715.png",
+  "out": "post_d08_0715.jpg",
+  "kicker": "Curl Forecast",
+  "headline": "Monday forecast: 90% chance of “I don’t get it.” Clearing by 7:55 PM."
+ },
+ {
+  "day": 8,
+  "kind": "reel",
+  "src": "dumprin_d08_1215_still.png",
+  "out": "reel_d08_1215.mp4",
+  "headline": "Hop along a number line until subtraction makes sense."
+ },
+ {
+  "day": 9,
+  "kind": "image",
+  "src": "dumprin_d09_0715.png",
+  "out": "post_d09_0715.jpg",
+  "kicker": "Never Said",
+  "headline": "Things Dumprin has never said: “Because I said so.”"
+ },
+ {
+  "day": 9,
+  "kind": "reel",
+  "src": "dumprin_d09_1215_still.png",
+  "out": "reel_d09_1215.mp4",
+  "headline": "Break a big word into small ones."
+ },
+ {
+  "day": 10,
+  "kind": "image",
+  "src": "dumprin_d10_0715.png",
+  "out": "post_d10_0715.jpg",
+  "kicker": "Not My Department",
+  "headline": "“Dumprin, can you do my chores?”\n“Not my department. I can help you count how many are left.”"
+ },
+ {
+  "day": 10,
+  "kind": "reel",
+  "src": "dumprin_d10_1215_still.png",
+  "out": "reel_d10_1215.mp4",
+  "headline": "Find out what a plant needs to grow."
+ },
+ {
+  "day": 11,
+  "kind": "image",
+  "src": "dumprin_d11_0715.png",
+  "out": "post_d11_0715.jpg",
+  "kicker": "Dumprin Says",
+  "headline": "The answer is on the last page. The understanding isn’t."
+ },
+ {
+  "day": 11,
+  "kind": "reel",
+  "src": "dumprin_d11_1215_still.png",
+  "out": "reel_d11_1215.mp4",
+  "headline": "Explain it out loud. He listens first."
+ },
+ {
+  "day": 12,
+  "kind": "image",
+  "src": "dumprin_d12_0715.png",
+  "out": "post_d12_0715.jpg",
+  "kicker": "Dumprin Says",
+  "headline": "12 cookies. 3 kids. 1 parent who “isn’t having any.” Do the math."
+ },
+ {
+  "day": 12,
+  "kind": "reel",
+  "src": "dumprin_d12_1215_still.png",
+  "out": "reel_d12_1215.mp4",
+  "headline": "Double the recipe. Practise the fractions."
+ },
+ {
+  "day": 13,
+  "kind": "image",
+  "src": "dumprin_d13_0715.png",
+  "out": "post_d13_0715.jpg",
+  "kicker": "Dumprin Says",
+  "headline": "Weekend homework exists. So does Dumprin."
+ },
+ {
+  "day": 13,
+  "kind": "reel",
+  "src": "dumprin_d13_1215_still.png",
+  "out": "reel_d13_1215.mp4",
+  "headline": "Count the allowance. Call it math."
+ },
+ {
+  "day": 14,
+  "kind": "image",
+  "src": "dumprin_d14_0715.png",
+  "out": "post_d14_0715.jpg",
+  "kicker": "Dumprin Says",
+  "headline": "“I’m bad at math” is not a diagnosis. It’s Tuesday’s mood."
+ },
+ {
+  "day": 14,
+  "kind": "reel",
+  "src": "dumprin_d14_1215_still.png",
+  "out": "reel_d14_1215.mp4",
+  "headline": "Set the stopping point before they start."
+ },
+ {
+  "day": 15,
+  "kind": "image",
+  "src": "dumprin_d15_0715.png",
+  "out": "post_d15_0715.jpg",
+  "kicker": "Curl Forecast",
+  "headline": "This week: scattered fractions, with a high of “OH!”"
+ },
+ {
+  "day": 15,
+  "kind": "reel",
+  "src": "dumprin_d15_1215_still.png",
+  "out": "reel_d15_1215.mp4",
+  "headline": "Write Grandma a letter. Fix one spelling at a time."
+ },
+ {
+  "day": 16,
+  "kind": "image",
+  "src": "dumprin_d16_0715.png",
+  "out": "post_d16_0715.jpg",
+  "kicker": "Never Said",
+  "headline": "Things Dumprin has never said: “Ask your father.”"
+ },
+ {
+  "day": 16,
+  "kind": "reel",
+  "src": "dumprin_d16_1215_still.png",
+  "out": "reel_d16_1215.mp4",
+  "headline": "See 3 × 4 in an egg carton."
+ },
+ {
+  "day": 17,
+  "kind": "image",
+  "src": "dumprin_d17_0715.png",
+  "out": "post_d17_0715.jpg",
+  "kicker": "Not My Department",
+  "headline": "“Dumprin, what should I get Mom for her birthday?”\n“Not my department. Let’s check your budget, though. With tax.”"
+ },
+ {
+  "day": 17,
+  "kind": "reel",
+  "src": "dumprin_d17_1215_still.png",
+  "out": "reel_d17_1215.mp4",
+  "headline": "Drink the coffee while it’s hot."
+ },
+ {
+  "day": 18,
+  "kind": "image",
+  "src": "dumprin_d18_0715.png",
+  "out": "post_d18_0715.jpg",
+  "kicker": "Dumprin Says",
+  "headline": "How many times can a kid ask “why”? We haven’t found the limit. We’re still answering."
+ },
+ {
+  "day": 18,
+  "kind": "reel",
+  "src": "dumprin_d18_1215_still.png",
+  "out": "reel_d18_1215.mp4",
+  "headline": "Ask why it fizzes."
+ },
+ {
+  "day": 19,
+  "kind": "image",
+  "src": "dumprin_d19_0715.png",
+  "out": "post_d19_0715.jpg",
+  "kicker": "Dumprin Says",
+  "headline": "“Necessary” has one collar and two sleeves."
+ },
+ {
+  "day": 19,
+  "kind": "reel",
+  "src": "dumprin_d19_1215_still.png",
+  "out": "reel_d19_1215.mp4",
+  "headline": "Get it wrong. Try again. Nobody sighs."
+ },
+ {
+  "day": 20,
+  "kind": "image",
+  "src": "dumprin_d20_0715.png",
+  "out": "post_d20_0715.jpg",
+  "kicker": "Dumprin Says",
+  "headline": "Gingerbread houses are geometry you can eat."
+ },
+ {
+  "day": 20,
+  "kind": "reel",
+  "src": "dumprin_d20_1215_still.png",
+  "out": "reel_d20_1215.mp4",
+  "headline": "Build a gingerbread house. Meet geometry."
+ },
+ {
+  "day": 21,
+  "kind": "image",
+  "src": "dumprin_d21_0715.png",
+  "out": "post_d21_0715.jpg",
+  "kicker": "12 OH!s",
+  "headline": "The 12 OH!s of December start tonight."
+ },
+ {
+  "day": 21,
+  "kind": "reel",
+  "src": "dumprin_d21_1215_still.png",
+  "out": "reel_d21_1215.mp4",
+  "headline": "Find out why marshmallows float."
+ },
+ {
+  "day": 22,
+  "kind": "image",
+  "src": "dumprin_d22_0715.png",
+  "out": "post_d22_0715.jpg",
+  "kicker": "Curl Forecast",
+  "headline": "Cold outside. Warm brain. 100% chance of mittens."
+ },
+ {
+  "day": 22,
+  "kind": "reel",
+  "src": "dumprin_d22_1215_still.png",
+  "out": "reel_d22_1215.mp4",
+  "headline": "Learn the clock with real hands."
+ },
+ {
+  "day": 23,
+  "kind": "image",
+  "src": "dumprin_d23_0715.png",
+  "out": "post_d23_0715.jpg",
+  "kicker": "Never Said",
+  "headline": "Things Dumprin has never said: “It’s easy.”"
+ },
+ {
+  "day": 23,
+  "kind": "reel",
+  "src": "dumprin_d23_1215_still.png",
+  "out": "reel_d23_1215.mp4",
+  "headline": "Fix “freind” before Friday’s test."
+ },
+ {
+  "day": 24,
+  "kind": "image",
+  "src": "dumprin_d24_0715.png",
+  "out": "post_d24_0715.jpg",
+  "kicker": "Not My Department",
+  "headline": "“Dumprin, what am I getting for the holidays?”\n“Not my department. Want to count the sleeps?”"
+ },
+ {
+  "day": 24,
+  "kind": "reel",
+  "src": "dumprin_d24_1215_still.png",
+  "out": "reel_d24_1215.mp4",
+  "headline": "Wrap a present. Measure the area."
+ },
+ {
+  "day": 25,
+  "kind": "image",
+  "src": "dumprin_d25_0715.png",
+  "out": "post_d25_0715.jpg",
+  "kicker": "Dumprin Says",
+  "headline": "Wrong answers welcome. Please wipe your feet.",
+  "zoom": 1.1
+ },
+ {
+  "day": 25,
+  "kind": "reel",
+  "src": "dumprin_d25_1215_still.png",
+  "out": "reel_d25_1215.mp4",
+  "headline": "Fold a plane. Test what makes it fly."
+ },
+ {
+  "day": 26,
+  "kind": "image",
+  "src": "dumprin_d26_0715.png",
+  "out": "post_d26_0715.jpg",
+  "kicker": "Curl Report",
+  "headline": "School’s out. The curl is in vacation mode. (It looks the same.)"
+ },
+ {
+  "day": 26,
+  "kind": "reel",
+  "src": "dumprin_d26_1215_still.png",
+  "out": "reel_d26_1215.mp4",
+  "headline": "School’s out. Keep ten minutes a day."
+ },
+ {
+  "day": 27,
+  "kind": "image",
+  "src": "dumprin_d27_0715.png",
+  "out": "post_d27_0715.jpg",
+  "kicker": "Dumprin Says",
+  "headline": "The only screen in the house that asks a question back."
+ },
+ {
+  "day": 27,
+  "kind": "reel",
+  "src": "dumprin_d27_1215_still.png",
+  "out": "reel_d27_1215.mp4",
+  "headline": "Count the sides of a snowflake."
+ },
+ {
+  "day": 28,
+  "kind": "image",
+  "src": "dumprin_d28_0715.png",
+  "out": "post_d28_0715.jpg",
+  "kicker": "Dumprin Says",
+  "headline": "Parents: you are allowed to not remember how to divide fractions."
+ },
+ {
+  "day": 28,
+  "kind": "reel",
+  "src": "dumprin_d28_1215_still.png",
+  "out": "reel_d28_1215.mp4",
+  "headline": "Roll two dice. Add faster every round."
+ },
+ {
+  "day": 29,
+  "kind": "image",
+  "src": "dumprin_d29_0715.png",
+  "out": "post_d29_0715.jpg",
+  "kicker": "Curl Forecast",
+  "headline": "Shortest day of the year. Longest list of questions."
+ },
+ {
+  "day": 29,
+  "kind": "reel",
+  "src": "dumprin_d29_1215_still.png",
+  "out": "reel_d29_1215.mp4",
+  "headline": "See why today is the shortest day."
+ },
+ {
+  "day": 30,
+  "kind": "image",
+  "src": "dumprin_d30_0715.png",
+  "out": "post_d30_0715.jpg",
+  "kicker": "Never Said",
+  "headline": "Things Dumprin has never said: “Just memorize it.”"
+ },
+ {
+  "day": 30,
+  "kind": "reel",
+  "src": "dumprin_d30_1215_still.png",
+  "out": "reel_d30_1215.mp4",
+  "headline": "Meet the number that’s interesting twice."
+ },
+ {
+  "day": 31,
+  "kind": "image",
+  "src": "dumprin_d31_0715.png",
+  "out": "post_d31_0715.jpg",
+  "kicker": "Not My Department",
+  "headline": "“Dumprin, are we there yet?”\n“Not my department. But it’s 120 km at 100 km an hour. You tell me.”"
+ },
+ {
+  "day": 31,
+  "kind": "reel",
+  "src": "dumprin_d31_1215_still.png",
+  "out": "reel_d31_1215.mp4",
+  "headline": "Turn the car ride into a word game."
+ },
+ {
+  "day": 32,
+  "kind": "image",
+  "src": "dumprin_d32_0715.png",
+  "out": "post_d32_0715.jpg",
+  "kicker": "Dumprin Says",
+  "headline": "Tonight’s homework: one story, read out loud, in funny voices."
+ },
+ {
+  "day": 32,
+  "kind": "reel",
+  "src": "dumprin_d32_1215_still.png",
+  "out": "reel_d32_1215.mp4",
+  "headline": "Count the sleeps. Subtract one."
+ },
+ {
+  "day": 33,
+  "kind": "image",
+  "src": "dumprin_d33_0715.png",
+  "out": "post_d33_0715.jpg",
+  "kicker": "Dumprin Says",
+  "headline": "Happy holidays from the smallest tutor in the house."
+ },
+ {
+  "day": 33,
+  "kind": "reel",
+  "src": "dumprin_d33_1215_still.png",
+  "out": "reel_d33_1215.mp4",
+  "headline": "Even the tutor rests today."
+ },
+ {
+  "day": 34,
+  "kind": "image",
+  "src": "dumprin_d34_0715.png",
+  "out": "post_d34_0715.jpg",
+  "kicker": "Dumprin Says",
+  "headline": "Boxing Day math: how many boxes fit in the recycling bin? None. It’s full."
+ },
+ {
+  "day": 34,
+  "kind": "reel",
+  "src": "dumprin_d34_1215_still.png",
+  "out": "reel_d34_1215.mp4",
+  "headline": "Read the instructions. All of them."
+ },
+ {
+  "day": 35,
+  "kind": "image",
+  "src": "dumprin_d35_0715.png",
+  "out": "post_d35_0715.jpg",
+  "kicker": "Never Said",
+  "headline": "Things Dumprin has never said: “You should know this by now.”"
+ },
+ {
+  "day": 35,
+  "kind": "reel",
+  "src": "dumprin_d35_1215_still.png",
+  "out": "reel_d35_1215.mp4",
+  "headline": "Write the thank-you notes. Practise the paragraph."
+ },
+ {
+  "day": 36,
+  "kind": "image",
+  "src": "dumprin_d36_0715.png",
+  "out": "post_d36_0715.jpg",
+  "kicker": "Curl Forecast",
+  "headline": "Lazy, with a chance of board games."
+ },
+ {
+  "day": 36,
+  "kind": "reel",
+  "src": "dumprin_d36_1215_still.png",
+  "out": "reel_d36_1215.mp4",
+  "headline": "Deal two cards. Biggest sum wins."
+ },
+ {
+  "day": 37,
+  "kind": "image",
+  "src": "dumprin_d37_0715.png",
+  "out": "post_d37_0715.jpg",
+  "kicker": "Not My Department",
+  "headline": "“Dumprin, can I stay up till midnight on New Year’s?”\n“Not my department. That’s a grown-up question. I do time zones, though.”"
+ },
+ {
+  "day": 37,
+  "kind": "reel",
+  "src": "dumprin_d37_1215_still.png",
+  "out": "reel_d37_1215.mp4",
+  "headline": "Name the fraction of pizza that’s left."
+ },
+ {
+  "day": 38,
+  "kind": "image",
+  "src": "dumprin_d38_0715.png",
+  "out": "post_d38_0715.jpg",
+  "kicker": "Dumprin Says",
+  "headline": "2026 in review. Questions asked: a lot. Sighs: 0."
+ },
+ {
+  "day": 38,
+  "kind": "reel",
+  "src": "dumprin_d38_1215_still.png",
+  "out": "reel_d38_1215.mp4",
+  "headline": "Race two ice cubes. Add salt to one."
+ },
+ {
+  "day": 39,
+  "kind": "image",
+  "src": "dumprin_d39_0715.png",
+  "out": "post_d39_0715.jpg",
+  "kicker": "Dumprin Says",
+  "headline": "10, 9, 8… counting backwards counts as math."
+ },
+ {
+  "day": 39,
+  "kind": "reel",
+  "src": "dumprin_d39_1215_still.png",
+  "out": "reel_d39_1215.mp4",
+  "headline": "Count down from ten. Then try from a hundred."
+ },
+ {
+  "day": 40,
+  "kind": "image",
+  "src": "dumprin_d40_0715.png",
+  "out": "post_d40_0715.jpg",
+  "kicker": "Dumprin Says",
+  "headline": "New year. Same curl. More questions."
+ },
+ {
+  "day": 40,
+  "kind": "reel",
+  "src": "dumprin_d40_1215_still.png",
+  "out": "reel_d40_1215.mp4",
+  "headline": "Make one resolution: ask more questions."
+ },
+ {
+  "day": 41,
+  "kind": "image",
+  "src": "dumprin_d41_0715.png",
+  "out": "post_d41_0715.jpg",
+  "kicker": "Dumprin Says",
+  "headline": "Resolution: fewer “because I said so”, more “let’s find out”."
+ },
+ {
+  "day": 41,
+  "kind": "reel",
+  "src": "dumprin_d41_1215_still.png",
+  "out": "reel_d41_1215.mp4",
+  "headline": "Sharpen the pencils. Monday is coming."
+ },
+ {
+  "day": 42,
+  "kind": "image",
+  "src": "dumprin_d42_0715.png",
+  "out": "post_d42_0715.jpg",
+  "kicker": "7:42 PM",
+  "headline": "Sunday scaries, kid edition: it’s the reading log."
+ },
+ {
+  "day": 42,
+  "kind": "reel",
+  "src": "dumprin_d42_1215_still.png",
+  "out": "reel_d42_1215.mp4",
+  "headline": "Get ready for Monday on Sunday."
+ },
+ {
+  "day": 43,
+  "kind": "image",
+  "src": "dumprin_d43_0715.png",
+  "out": "post_d43_0715.jpg",
+  "kicker": "Curl Forecast",
+  "headline": "Back to school. Light homework expected by Wednesday. It never stays light."
+ },
+ {
+  "day": 43,
+  "kind": "reel",
+  "src": "dumprin_d43_1215_still.png",
+  "out": "reel_d43_1215.mp4",
+  "headline": "See you at homework time."
+ },
+ {
+  "day": 44,
+  "kind": "image",
+  "src": "dumprin_d44_0715.png",
+  "out": "post_d44_0715.jpg",
+  "kicker": "Never Said",
+  "headline": "Things Dumprin has never said: “Hurry up.”"
+ },
+ {
+  "day": 44,
+  "kind": "reel",
+  "src": "dumprin_d44_1215_still.png",
+  "out": "reel_d44_1215.mp4",
+  "headline": "Ask the question they won’t ask in class."
+ },
+ {
+  "day": 45,
+  "kind": "image",
+  "src": "dumprin_d45_0715.png",
+  "out": "post_d45_0715.jpg",
+  "kicker": "Dumprin Says",
+  "headline": "Day 45. Thank you for every question."
+ },
+ {
+  "day": 45,
+  "kind": "reel",
+  "src": "dumprin_d45_1215_still.png",
+  "out": "reel_d45_1215.mp4",
+  "headline": "One jar, full."
+ }
+]
